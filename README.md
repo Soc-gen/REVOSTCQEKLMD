@@ -18,7 +18,7 @@ sudo apt-get update
 - **IMPORT TOOL**
 
 ```bash
-git clone https://github.com/REVOTRACK/REVOPOST.git
+git clone https://github.com/REVOSEND/REVOSTCQEKLMD.git
 ```
 
 - **RUN INSTALLER**
